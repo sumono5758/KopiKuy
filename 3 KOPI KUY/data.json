@@ -1,0 +1,41 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://th.bing.com/th/id/R.b2005c433f01f067722a2812a047ec88?rik=bDLsR7Xhw9Iktg&riu=http%3a%2f%2fwww.thesuntavern.co.uk%2fwp-content%2fuploads%2f2016%2f02%2fthesuntavern-Cortado-coffee-cocktailbar-bethnalgreen-crop-03.jpg&ehk=pSZ962nqWlwlQKXYeXnuxt4Ddj4T33UJKi0Kv24k2BI%3d&risl=&pid=ImgRaw&r=0",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://loveandourlaptoplives.com/wp-content/uploads/2020/04/caramel-ma.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
